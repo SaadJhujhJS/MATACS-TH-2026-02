@@ -14,3 +14,4 @@ I used Claude to help me understand the assessment, talk through the design, che
 - [WRITEUP.md](WRITEUP.md): answers to the five questions
 - [PROMPTS.md](PROMPTS.md): extraction and explanation prompts
 - [ranking.json](ranking.json): expected ranking of proposals A to E
+- [prototype/triage.py](prototype/triage.py): optional script that runs extraction, gate and scoring on the five samples. By default it runs in offline mode, using saved example extractions (`mock_extractions.json`) in place of the AI so the gate and scoring can be run without an API key. `python triage.py --live` calls the AI instead and needs `ANTHROPIC_API_KEY`.
