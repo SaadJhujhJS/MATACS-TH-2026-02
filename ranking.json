@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 96,
+    "reason": "Passes both mandatory checks and leads on experience (14 installs), 12-week schedule and full team, safety and monitoring plan at $238,000."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 84,
+    "reason": "Passes mandatory checks with the best warranty and 24-month monitoring, but fewer qualifying installs (8) and a slower, pricier bid than A."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 76,
+    "reason": "Passes mandatory checks with solid price and warranty, but names no safety or monitoring plan and has only nine installs and a 14-week schedule."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Passes mandatory checks but gives no completion time, so the 16-week requirement cannot be verified; reviewer should request a date before it is scored."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "Fails the mandatory licence criterion: electrical work is subcontracted to an unconfirmed contractor, so the bidder does not state it holds the licence."
+  }
+]
